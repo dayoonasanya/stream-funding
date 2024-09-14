@@ -1,0 +1,292 @@
+{
+  "Nav": {
+    "my-projects": "Mes Projets",
+    "settings": "Paramètres",
+    "logout": "Déconnexion",
+    "login": "Connexion",
+    "home": "Accueil",
+    "about-us": "À Propos",
+    "all-pro": "Tous les Projets",
+    "my-projects-two": "Mes Projets",
+    "add-new-pro": "Ajouter un Nouveau Projet",
+    "settings-two": "Paramètres",
+    "logout-two": "Déconnexion",
+    "login-two": "Connexion",
+    "label-search": "Rechercher des projets",
+    "placeholder-search": "Rechercher...",
+    "projects": "PROJETS",
+    "aboutus": "À PROPOS"
+  },
+  "WelcomeBanner": {
+    "header1": "Encourager",
+    "header2": "les Rêves",
+    "header3": "Ensemble",
+    "subHeader1": "Nous avons aidé plus de 3 500 projets et causes.",
+    "subHeader2": "Rejoignez-nous pour Donner Vie aux Idées !",
+    "successful": "Projets réussis : ",
+    "donations": "Dons effectués : ",
+    "button": "Commencer Maintenant"
+  },
+  "LoginForm": {
+    "header": "Connectez-vous à Votre Compte",
+    "subHeader": "Connexion avec Google",
+    "or": "OU",
+    "loginButton": "Connexion",
+    "emailInput": "Email",
+    "passwordInput": "Mot de passe",
+    "sideHeader": "Nouveau ici ?",
+    "sideParagraph": "Inscrivez-vous et découvrez de formidables opportunités pour aider les autres et créer votre propre cause !",
+    "signupButton": "S'inscrire"
+  },
+  "SignupForm": {
+    "header": "S'inscrire",
+    "email": "Email",
+    "password": "Mot de passe",
+    "fullName": "Nom Complet",
+    "bio": "Bio",
+    "country": "Pays",
+    "signupButton": "S'inscrire",
+    "userPicture": "Photo de l'utilisateur",
+    "sideHeader": "Vous avez déjà un compte ?",
+    "loginButton": "Connexion"
+  },
+  "EditUser": {
+    "header": "Détails Personnels :",
+    "sub-header": "Veuillez compléter vos informations personnelles",
+    "country": "Pays",
+    "btn-update": "Mettre à jour",
+    "label-name": "Nom complet",
+    "bio": "Bio",
+    "user-picture": "Photo de l'utilisateur"
+  },
+  "ProjectsForm": {
+    "success-msg": "Projet Créé avec Succès !",
+    "user-ıd-part-one": "Utilisateur avec ID",
+    "user-ıd-part-two": "non trouvé.",
+    "kick-off": "Lancez votre projet",
+    "alert-success": "Projet Créé avec Succès !",
+    "name-pro": "Nom de votre projet",
+    "goal-pro": "Ajoutez votre objectif",
+    "date-pro": "Date de Début",
+    "date-two-pro": "Date de Fin",
+    "about-pro": "À propos de votre projet",
+    "category": "Catégorie",
+    "category-animals": "Animaux",
+    "category-education": "Éducation",
+    "category-culture": "Culture",
+    "category-children": "Enfants",
+    "upload-project": "Télécharger le Projet",
+    "Project Name is Required": "Le Nom du Projet est Obligatoire !",
+    "Goal Amount Must Be a Number": "Le Montant de l'Objectif Doit Être un Nombre !",
+    "Goal is Required": "Objectif Obligatoire !",
+    "Starting Date is Required": "Date de Début Obligatoire !",
+    "Ending Date is Required": "Date de Fin Obligatoire !",
+    "About is Required": "À propos est Obligatoire !",
+    "Project Category is Required": "Catégorie de Projet Obligatoire !",
+    "Project Picture is Required": "Photo du Projet Obligatoire !"
+  },
+  "UserSettingForms": {
+    "my-pro": "Mes Projets",
+    "settings": "Paramètres",
+    "logout": "Déconnexion"
+  },
+  "DonationForm": {
+    "header": "Entrez le montant :",
+    "charityText": "Ajouter 2% pour la charité ?",
+    "payNowBtn": "Payer Maintenant",
+    "successMessage": "Don Réussi !",
+    "addPaymentMethodBtn": "Ajouter un Moyen de Paiement",
+    "notAddedPaymentMethod": "Vous n'avez pas encore ajouté de moyen de paiement ? Cliquez sur le bouton ci-dessous pour ajouter maintenant",
+    "donation-amount-msg": "Le Montant du Don Ne Peut Être Inférieur à 1 Dollar !",
+    "donation-amount-two-msg": "Le Montant du Don Doit Être un Nombre !",
+    "donation-required-msg": "Le Montant du Don est Obligatoire !"
+  },
+  "PaymentMethodForm": {
+    "header": "Détails du Don",
+    "cardNumber": "Numéro de Carte",
+    "expiryDate": "Date d'Expiration",
+    "cvc": "CVC",
+    "holderName": "Nom du Titulaire",
+    "alert-text": "Veuillez remplir tous les champs.",
+    "confirm-btn": "Confirmer votre don",
+    "success-msg": "Vous avez ajouté avec succès un moyen de don !"
+  },
+  "AboutUs": {
+    "header": "À PROPOS",
+    "white-part-header": "Notre Plus Grande Ambition",
+    "white-part-two-header": "est de",
+    "yellow-part-header": "Aider les Gens",
+    "paragraph": "Obtenez instantanément des ressources utiles sur n'importe quoi, mettez en œuvre facilement des solutions de transfert d'argent sécurisées, améliorez votre efficacité quotidienne, connectez-vous à d'autres utilisateurs de l'application et créez votre propre réseau Fronter, et bien plus encore en quelques clics.",
+    "more-link": "En savoir plus"
+  },
+  "HowWorks": {
+    "header1": "Comment ",
+    "header2": "Main",
+    "header3": "Ouverte",
+    "header4": "Fonctionne",
+    "sub-header": "En quelques minutes, vous pouvez collecter des fonds",
+    "sub-header-one": "Commencez par les bases",
+    "paragraph-one": "Présentez-vous, votre plan et où cela se passe",
+    "sub-header-two": "Parlez de votre idée et de votre événement",
+    "paragraph-two": "Nous vous fournirons des conseils tout au long du chemin",
+    "sub-header-three": "Partagez avec vos amis et votre famille",
+    "paragraph-three": "Il y a beaucoup de gens qui veulent aussi vous aider"
+  },
+  "StartNow": {
+    "header": "Commencer Maintenant",
+    "paragraph": "Commencez Maintenant et Donnez Vie à Vos Idées ! Créez un projet et collectez des fonds pour votre projet de rêve, ou faites une différence en faisant un don à des projets qui correspondent à vos passions. Rejoignez notre communauté de créateurs de changement dès aujourd'hui !",
+    "btn-one": "Créer un Nouveau Compte",
+    "btn-two": "Voir les Projets",
+    "btn-three": "Mes Projets"
+  },
+  "NewsLetterCard": {
+    "header1": "Abonnez-vous maintenant et soyez à l'avant-garde du changement !",
+    "paragraph": "Inscrivez-vous à notre newsletter gratuite pour recevoir notre résumé mensuel des meilleures causes. Restez informé, inspirez-vous et faites une différence en rejoignant notre communauté de personnes passionnées dédiées à changer le monde pour le mieux !",
+    "header2": "Abonnez-vous à notre newsletter",
+    "email-input-area": "Adresse Email",
+    "btn": "S'abonner",
+    "note-to-user": " Nous ne vous spammerons pas 🤞🏼",
+    "email": "L'Email est requis",
+    "valid": "Utilisez un email valide",
+    "message": "Abonné à la Newsletter d'OpenHanded !"
+  },
+  "SuccessfulProjects": {
+    "header-part-one": "Derniers",
+    "header-part-two": " Projets Réussis ",
+    "sub-header": "Découvrez nos cas les plus récents",
+    "no-projects-text": "Aucun projet réussi trouvé pour le moment."
+  },
+  "SearchList": {
+    "no-matching-result": "Aucun résultat correspondant"
+  },
+  "Comments": {
+    "btn": "Ajouter un témoignage",
+    "testimonial-input-area": "Écrivez votre témoignage...",
+    "btn-2": "Fermer",
+    "btn-3": "Soumettre",
+    "header": "Témoignages"
+  },
+  "Projects": {
+    "projects-completed": "Le projet est terminé 🎉",
+    "donate-btn": "Faire un Don",
+    "login-btn": "Connectez-vous pour financer ce projet"
+  },
+  "MobileLangSwitch": {
+    "header": "Langue"
+  },
+  "AddProject": {
+    "button": "Créer un Projet"
+  },
+  "About": {
+    "green-header": "Qui Nous Sommes",
+    "header": "Nous sommes là pour soutenir tout le monde et s'entraider",
+    "implication": "autant que nous le pouvons",
+    "text": "OpenHanded est une plateforme de collecte de fonds propulsée par la communauté. Nous croyons que l'entraide est puissante, c'est pourquoi nous nous engageons à rendre la demande d'aide sûre et facile pour tous. Ici, notre objectif est d'aider les organisations à générer les fonds nécessaires pour se concentrer sur leurs missions principales d'éducation, d'enrichissement communautaire, de recherche scientifique ou de charité. Nous croyons que nos équipes doivent représenter toutes les voix et ethnies uniques de manière à refléter la diversité de notre monde."
+  },
+  "GetStarted": {
+    "header": "Maintenant, vous envisagez peut-être de nous rejoindre",
+    "text": "Nous avons aidé plus de 3 500 projets et causes. Inscrivez-vous aujourd'hui et lancez votre idée ou soutenez d'autres projets fantastiques.",
+    "button": "Commencer"
+  },
+  "Team": {
+    "green-header": "Notre Équipe",
+    "work": "Développeur Web et Designer",
+    "message": "Si vous souhaitez nous contacter, nous sommes là !"
+  },
+  "Mission": {
+    "green-header": "Notre Mission",
+    "header-left": "Améliorer la qualité de vie de tout le monde",
+    "header-right": "Être la voix de ceux qui ont besoin d'aide",
+    "text-left": "Notre mission est d'aider les gens à s'entraider en rendant la demande d'aide sûre et facile pour tous. Nous sommes les plus forts lorsque chacun se sent encouragé à donner le meilleur de soi-même en sachant qu'il sera inclus et traité de manière égale.",
+    "text-right": "L'indépendance est une composante essentielle de la vie que chacun souhaite, et être la voix des personnes dans le besoin leur donne la chance de vivre cette expérience. Tous les projets sont en fait destinés à soutenir l'indépendance."
+  },
+  "Profile": {
+    "header": "Mes Projets",
+    "message": "Aucun projet dans cette catégorie"
+  },
+  "Thanks": {
+    "header": "Merci",
+    "sub-header": "Vous avez fait un don incroyable avec succès. Merci d'avoir rejoint la communauté OpenHanded. Pendant que vous attendez de nouvelles tentatives d'autres personnes, consultez les",
+    "others": "derniers projets !",
+    "button": "Aller à la Page d'Accueil"
+  },
+  "NoProjects": {
+    "text": "Si vous avez déjà un projet en tête, réalisons-le ensemble car cela pourrait aider quelqu'un et vous faire sourire en retour !",
+    "new": "Nouveau Projet",
+    "message": "Vous n'avez pas",
+    "colored": "encore de projet",
+    "donation": "Faire un Don"
+  },
+  "Cards": {
+    "don-header": "Historique des dons",
+    "pow-header": "Projet de la semaine",
+    "trans-header": "Historique des transactions",
+    "message": "Aucun don pour le moment",
+    "stats": "Statistiques",
+    "button-sel": "Sélectionner un projet",
+    "button-all": "Tous les projets",
+    "now": "Maintenant",
+    "ago": "il y a",
+    "min": "minute",
+    "mins": "minutes",
+    "hour": "heure",
+    "hours": "heures",
+    "day": "jour",
+    "days": "jours"
+  },
+  "Helper": {
+    "cncl": "Annuler",
+    "confirm": "Confirmer",
+    "sorry": "Désolé, page non trouvée",
+    "button": "Page d'Accueil",
+    "raised": "Collecté",
+    "goal": "Objectif",
+    "organize": "organise cette collecte de fonds."
+  },
+  "Footer": {
+    "text": "Donnez vie à vos idées dès maintenant ! Créez un projet pour collecter des fonds pour votre entreprise idéale, ou faites un don à des causes qui vous intéressent pour faire la différence.",
+    "more": "En savoir plus...",
+    "team": "Notre Équipe",
+    "link": "Liens",
+    "home": "Page d'Accueil",
+    "projects": "Projets",
+    "join": "Rejoindre",
+    "login": "Se Connecter",
+    "prof": "Profil",
+    "about": "À Propos"
+  },
+  "SuccessBadge": {
+    "left": "jours restants",
+    "sccs": "Réussi",
+    "clsd": "Fermé",
+    "actv": "Actif"
+  },
+  "Filtering": {
+    "header": "Catégories",
+    "filter": "Filtrer par",
+    "all": "Tous",
+    "education": "Éducation",
+    "culture": "Culture",
+    "animals": "Animaux",
+    "children": "Enfants",
+    "successful": "Réussi",
+    "active": "Actif",
+    "ending": "Se termine bientôt",
+    "closed": "Fermé"
+  },
+  "CommentForm": {
+    "Leave A Comment": "Laisser un Commentaire :",
+    "text": "Texte...",
+    "Submit": "Soumettre"
+  },
+  "CommentHeader": {
+    "header": "Commentaires"
+  },
+  "UserPage": {
+    "contributions": "Contributions",
+    "s": "s ",
+    "project": "Projets",
+    "donations": "Dons",
+    "amount": "Montant du Don"
+  }
+}
